@@ -4,6 +4,10 @@
 @import "/CSS/Header/superInfo.css";
 @import "/CSS/Header/menu.css";
 
-/* Sobre */
+/* Conteudo */
 
-@import "/CSS/Sobre/conteudo.css"
+@import "/CSS/Sobre/conteudo.css";
+
+/* Footer */
+
+@import "/CSS/Footer/footer.css";
